@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f872f99-2bfc-4ffb-aaf6-baa53c5d1051" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/WebScrapping java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/jsoup_1_12_1.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/runner.java" afterDir="false" />
     </list>
@@ -23,10 +21,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/runner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+            <state relative-caret-position="306">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#2681#2695#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -176,10 +175,11 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/runner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+        <state relative-caret-position="306">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#2681#2695#0" expanded="true" />
           </folding>
         </state>
       </provider>
